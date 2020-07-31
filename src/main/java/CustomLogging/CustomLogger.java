@@ -2,7 +2,6 @@ package CustomLogging;
 
 import org.apache.log4j.*;
 
-import java.io.FileWriter;
 import java.io.IOException;
 
 public class CustomLogger {
